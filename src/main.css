@@ -3,8 +3,9 @@
 @theme{
 
 }
+
 h4{
-  font-size: 25px;
+  font-size: 20px;
 }
 p{
   font-size: 16px;
@@ -21,5 +22,5 @@ p{
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
-  overflow: hidden;
+  overflow-x: hidden;
 }
